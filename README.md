@@ -1,2 +1,2 @@
 # followers-tracker
-Small app to track why social media followers
+Small app to track social media followers
